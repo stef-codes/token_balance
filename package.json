@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@alch/alchemy-sdk": "^1.2.0"
+  }
+}
